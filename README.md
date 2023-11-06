@@ -4,7 +4,7 @@
     ['error:03000086:digital envelope routines::initialization error' ] ....   
     所以 可以試看看 這個指令 ：   
      export NODE_OPTIONS=--openssl-legacy-provider     
-    然後再下 Step2
+    然後再下 Step2 之後的步驟
     參考網址：https://stackoverflow.com/questions/74726224/opensslerrorstack-error03000086digital-envelope-routinesinitialization-ehttps://stackoverflow.com/questions/74726224/opensslerrorstack-error03000086digital-envelope-routinesinitialization-e
 ) 
 2. npm run dev 
