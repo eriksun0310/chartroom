@@ -8,7 +8,7 @@ import UserService from "@/service/UserService";
 import moment from "moment";
 
 // node serve
-const port = 3018;
+const port = 3008;
 const app = express();
 const server = http.createServer(app);
 const io = new Server(server);
